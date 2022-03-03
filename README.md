@@ -1,6 +1,6 @@
 # Animal Shelter Tracker
 
-#### By _**{List of contributors}**_
+#### By _**Branden Clauson, Marni Sucher, and Patrick Dolan**_
 
 #### _An animal tracking software site to log animals in their facility._
 
