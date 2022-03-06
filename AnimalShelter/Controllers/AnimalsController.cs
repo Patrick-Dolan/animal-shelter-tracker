@@ -17,7 +17,6 @@ namespace AnimalShelter.Controllers
     public ActionResult Index()
     {
       List<Animal> model = _db.Animals.Where(animals => animals.Type == "Cat").ToList();
-      ViewBag.FavoriteColor = "green";
       return View(model);
     }
   }
